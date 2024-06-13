@@ -96,6 +96,7 @@ decoded_msg = decode_message('encoded_image.png')
 print(decoded_msg)
 
 ```
+![Steganography](https://github.com/FahimDidnt/CypherKit/assets/115972582/be28d07e-d2c7-4da8-a8aa-e7737b542658)
 
 
 ## License
